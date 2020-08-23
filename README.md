@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This is a MERN(MongoDB, Express, React, Node.js) full stack project. you can use this as a template to build your own app.
 
 ## Available Scripts
